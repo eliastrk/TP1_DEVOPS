@@ -1,0 +1,3 @@
+REPOSITORY   TAG       IMAGE ID       CREATED        SIZE
+bloated      latest    050162960d5f   11 hours ago   888MB
+optimized    latest    30a1d868d5ed   15 hours ago   8.89MB
